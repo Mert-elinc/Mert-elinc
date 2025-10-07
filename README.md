@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center">Merhaba 👋, ben mert ELİNC</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h1 align="center">Merhaba 👋, ben Mert ELİNC</h1>
+<h3 align="center">Türkiye'den tutkulu bir Yazılım Mühendisiyim</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mert-elinc&label=Profile%20views&color=0e75b6&style=flat" alt="mert-elinc" /> </p>
 
