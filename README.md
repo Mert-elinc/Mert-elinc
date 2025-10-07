@@ -1,4 +1,4 @@
-![MasterHead](🔗 elinchtech_logo_round_591x591_1mb.jpg indir)
+![MasterHead](https://drive.google.com/file/d/1sTMhB36hAJCmTt_mOkZqeDRtiynFXjL9/view?usp=sharing)
 
 
 
@@ -13,7 +13,7 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **elinc.mertt@hotmail.com**
 
-- 📄 Deneyimlerim hakkında :https://drive.google.com/file/d/14b60lqR2pGNHWzi6N_y9QJamQ6QFRlK4/view?usp=drive_link
+- 📄 Deneyimlerim hakkında :https://drive.google.com/file/d/14b60lqR2pGNHWzi6N_y9QJamQ6QFRlK4/view?usp=sharing
 - ⚡ İlginç bilgi **Kendimi komik buluyorum - özellikle de gece 2'de kod hatalarını ayıklarken!**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
