@@ -1,4 +1,5 @@
-![MasterHead](https://drive.google.com/file/d/1sTMhB36hAJCmTt_mOkZqeDRtiynFXjL9/view?usp=sharing)
+![MasterHead](![WhatsApp Görsel 2025-10-07 saat 04 06 59_708d863b](https://github.com/user-attachments/assets/4c773a8a-ab70-4312-a6c0-dc3db6cc0931)
+)
 
 
 
@@ -6,14 +7,18 @@
 <h1 align="center">Merhaba 👋, ben mert ELİNC</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mert-elinc&label=Profile%20views&color=0e75b6&style=flat" alt="mert-elinc" /> </p>
+
+- 🌱 Şu anda **C#,SQL** öğreniyorum
 
 - 👨‍💻 Tüm projelerim [https://github.com/Mert-elinc](https://github.com/Mert-elinc) adresinde mevcuttur
 
-- 💬 Bana **C++, C#, Microsoft Word, Excel, PowerPoint** hakkında sorular sorun
+- 💬 Bana **C++,C#,Python, Microsoft Word, Excel, PowerPoint** hakkında sorular sorun
 
 - 📫 Bana nasıl ulaşabilirsiniz **elinc.mertt@hotmail.com**
 
-- 📄 Deneyimlerim hakkında :https://drive.google.com/file/d/14b60lqR2pGNHWzi6N_y9QJamQ6QFRlK4/view?usp=sharing
+- 📄 Deneyimlerim hakkında bilgi edinin [file:///C:/Users/elinc.DESKTOP-M5GNIRB/AppData/Local/Microsoft/Windows/INetCache/IE/QJHP3M3O/CV[1].pdf](file:///C:/Users/elinc.DESKTOP-M5GNIRB/AppData/Local/Microsoft/Windows/INetCache/IE/QJHP3M3O/CV[1].pdf)
+
 - ⚡ İlginç bilgi **Kendimi komik buluyorum - özellikle de gece 2'de kod hatalarını ayıklarken!**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
@@ -25,13 +30,11 @@
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mert-elinc&show_icons=true&locale=tr&layout=compact" alt="mert-elinc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mert-elinc&show_icons=true&locale=en&layout=compact" alt="mert-elinc" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mert-elinc&show_icons=true&locale=tr" alt="mert-elinc" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mert-elinc&show_icons=true&locale=en" alt="mert-elinc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mert-elinc&" alt="mert-elinc" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mert-elinc&label=Profile%20views&color=0e75b6&style=flat" alt="mert-elinc" /> </p>
