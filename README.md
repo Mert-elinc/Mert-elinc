@@ -13,8 +13,7 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **elinc.mertt@hotmail.com**
 
-- 📄 Deneyimlerim hakkında bilgi edinin [file:///C:/Users/elinc.DESKTOP-M5GNIRB/AppData/Local/Microsoft/Windows/INetCache/IE/QJHP3M3O/CV[1].pdf](file:///C:/Users/elinc.DESKTOP-M5GNIRB/AppData/Local/Microsoft/Windows/INetCache/IE/QJHP3M3O/CV[1].pdf)
-
+- 📄 Deneyimlerim hakkında :https://drive.google.com/file/d/14b60lqR2pGNHWzi6N_y9QJamQ6QFRlK4/view?usp=drive_link
 - ⚡ İlginç bilgi **Kendimi komik buluyorum - özellikle de gece 2'de kod hatalarını ayıklarken!**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
